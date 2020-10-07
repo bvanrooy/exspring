@@ -1,36 +1,25 @@
 package be.abis.exercise.service;
 
 import java.io.IOException;
-import java.time.LocalDate;
-import java.util.List;
+import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import be.abis.exercise.exception.EnrollException;
-import be.abis.exercise.model.Course;
 import be.abis.exercise.model.Person;
 import be.abis.exercise.repository.PersonRepository;
 
 @Service
-public class AbisTrainingService implements TrainingService {
+public class AbisPersonService implements PersonService {
 
 	@Autowired
 	PersonRepository personRepository;
 	
-	@Autowired
-	CourseService courseService;
-	
 	@Override
-	public CourseService getCourseService() {
-		return courseService;
+	public ArrayList<Person> getAllPersons() {
+		return personRepository.getAllPersons(); 
 	}
 
-
-	public void setCourseService(CourseService courseService) {
-		this.courseService = courseService;
-	}
-  
 	@Override
 	public Person findPerson(int id) {
 		return personRepository.findPerson(id);
@@ -54,14 +43,8 @@ public class AbisTrainingService implements TrainingService {
 	}
 
 	@Override
-	public List<Course> showFollowedCourses(Person person) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
-	public void enrollForSession(Person person, LocalDate date) throws EnrollException {
-		// TODO Auto-generated method stub
+	public void changePassword(Person p, String newPswd) throws IOException {
+		personRepository.changePassword(p, newPswd);
 
 	}
 

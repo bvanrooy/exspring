@@ -30,7 +30,7 @@ public class AbisTrainingService implements TrainingService {
 	public void setCourseService(CourseService courseService) {
 		this.courseService = courseService;
 	}
-  
+
 	@Override
 	public Person findPerson(int id) {
 		return personRepository.findPerson(id);
