@@ -16,6 +16,7 @@ public interface TrainingService {
     public void deletePerson(int id);
 	public List<Course> showFollowedCourses(Person person);
 	public void enrollForSession(Person person, LocalDate date) throws EnrollException ;
+	public CourseService getCourseService();
 	
 
 }

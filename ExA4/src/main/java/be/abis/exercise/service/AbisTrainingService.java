@@ -21,7 +21,16 @@ public class AbisTrainingService implements TrainingService {
 	@Autowired
 	CourseService courseService;
 	
-	
+	@Override
+	public CourseService getCourseService() {
+		return courseService;
+	}
+
+
+	public void setCourseService(CourseService courseService) {
+		this.courseService = courseService;
+	}
+
 	@Override
 	public Person findPerson(int id) {
 		return personRepository.findPerson(id);
