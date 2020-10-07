@@ -47,9 +47,22 @@ public class MainController {
 	
 	@GetMapping("/index")
 	public String getIndex(Model model) {
-		logger.info("Get : index person logged in {}",personLoggedIn.toString());
 		logger.info("Get : getIndex");
+		logger.info("Get : index person logged in {}",personLoggedIn.toString());
 		model.addAttribute("person",personLoggedIn);
 		return "index";
 	}
+	
+	@GetMapping("/searchCourse")
+	public String getSearchCourse(Model model) {
+		logger.info("Get : searchCourse");
+		return "searchCourse";
+	}
+
+	@GetMapping("/persadmin")
+	public String getPersAdmin(Model model) {
+		logger.info("Get : persAdmin");
+		return "searchCourse";
+	}
 }
+
