@@ -1,0 +1,5 @@
+package be.abis.exercise.controller;
+
+public class RestController {
+
+}

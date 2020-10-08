@@ -1,0 +1,13 @@
+package be.abis.exercise.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class AnotherController {
+
+	@RequestMapping("/hello")
+	public String helloWorld() {
+		return "Hello world";
+	}
+}

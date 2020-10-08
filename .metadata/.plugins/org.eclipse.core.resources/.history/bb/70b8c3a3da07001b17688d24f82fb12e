@@ -1,0 +1,16 @@
+<!DOCTYPE html xmlns:th="http://www.thymeleaf.org" >
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Course info</title>
+</head>
+<body>
+	<h1>Course information</h1>
+	<table>
+		<tr>
+			<td>Title</td>
+			<td><span>short title</span></td>
+		</tr>
+	</table>
+</body>
+</html>

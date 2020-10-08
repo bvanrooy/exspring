@@ -1,0 +1,14 @@
+package be.abis.exercise.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class CourseController {
+
+	//@GetMapping("/")
+	public String getCourseDetail( Model model) {
+		
+		return "course";
+	}
+}

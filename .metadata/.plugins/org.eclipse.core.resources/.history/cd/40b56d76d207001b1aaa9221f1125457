@@ -1,0 +1,27 @@
+package be.abis.exercise.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import be.abis.exercise.service.CourseService;
+
+
+@Controller
+public class CourseController {
+
+	@Autowired
+	CourseService courseService;
+	
+	@GetMapping("/")
+	public String getCourseDetail( Model model) {
+		model.addAttribute(courseService.findCourse(7900));
+		return "course";
+	}
+	
+	@GetMapping("/test")
+	public String getTestPage() {
+		return "test";
+	}
+}

@@ -1,0 +1,5 @@
+package be.abis.exercise.service;
+
+public interface CourseService {
+
+}

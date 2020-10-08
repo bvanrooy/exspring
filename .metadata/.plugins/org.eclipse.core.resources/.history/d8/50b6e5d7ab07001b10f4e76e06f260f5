@@ -1,0 +1,23 @@
+package be.abis.hello.it;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+import be.abis.hello.service.AbisHelloService;
+import be.abis.hello.service.HelloService;
+
+public class HelloServiceTest {
+
+	HelloService helloService;
+	
+	@Before
+	public void setUp() {
+		helloService = new AbisHelloService();
+	}
+	
+	@Test
+	public void checkWetherFirstNameIsBart() {
+		assertEquals("Bart", helloService.find(1));
+	}
+}

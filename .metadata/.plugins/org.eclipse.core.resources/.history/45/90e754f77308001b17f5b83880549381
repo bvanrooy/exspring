@@ -1,0 +1,18 @@
+package be.abis.exercise.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import be.abis.exercise.model.Login;
+
+@Controller
+public class MainController {
+
+	
+	@GetMapping("/")
+	public String printCourse(Model model){
+		model.addAttribute("login", new Login());
+		return "login";
+	}
+}

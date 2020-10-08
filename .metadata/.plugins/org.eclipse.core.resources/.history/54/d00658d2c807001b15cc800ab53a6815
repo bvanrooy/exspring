@@ -1,0 +1,27 @@
+package be.abis.exercise.service;
+
+import java.util.List;
+
+import be.abis.exercise.model.Course;
+
+public class AbisCourseService implements CourseService {
+
+	@Override
+	public List<Course> findAllCourses() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Course findCourse(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Course findCours(String shortTitle) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

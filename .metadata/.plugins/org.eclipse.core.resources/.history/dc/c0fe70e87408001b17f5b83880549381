@@ -1,0 +1,46 @@
+package be.abis.exercise.service;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import be.abis.exercise.model.Person;
+
+public class AbisPersonService implements PersonService {
+
+	@Override
+	public ArrayList<Person> getAllPersons() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Person findPerson(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Person findPerson(String emailAddress, String passWord) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void addPerson(Person p) throws IOException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void deletePerson(int id) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void changePassword(Person p, String newPswd) throws IOException {
+		// TODO Auto-generated method stub
+
+	}
+
+}
