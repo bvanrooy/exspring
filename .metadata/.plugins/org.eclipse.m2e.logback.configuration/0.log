@@ -4758,3 +4758,199 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-10-09 13:29:15,873 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-10-09 13:29:15,878 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-10-09 13:29:15,882 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:29:15,892 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:29:15,892 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC2\src\test\resources
+2020-10-09 13:33:54,209 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: be.abis:ExC3:0.0.1-SNAPSHOT @ C:\Workspace\SpringbootExercises\ExC3\pom.xml.
+2020-10-09 13:33:55,260 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/main/java
+2020-10-09 13:33:55,260 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:33:55,271 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:33:55,283 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/test/java
+2020-10-09 13:33:55,716 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2020-10-09 13:33:55,717 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-09 13:33:56,535 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: be.abis:ExC3:0.0.1-SNAPSHOT @ C:\Workspace\SpringbootExercises\ExC3\pom.xml.
+2020-10-09 13:33:57,381 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/main/java
+2020-10-09 13:33:57,382 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:33:57,385 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:33:57,405 [Worker-108: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/test/java
+2020-10-09 13:33:57,742 [Worker-108: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-10-09 13:33:58,708 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:33:58,709 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:33:58,711 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:33:58,712 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:33:58,713 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:34:42,748 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: be.abis:ExC3:0.0.1-SNAPSHOT @ C:\Workspace\SpringbootExercises\ExC3\pom.xml.
+2020-10-09 13:34:43,367 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:43,367 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:34:43,367 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:34:43,369 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:43,370 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:34:45,235 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:45,238 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:34:45,244 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 13:34:45,287 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:45,304 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:34:55,777 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-09 13:34:56,173 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: be.abis:ExC3:0.0.1-SNAPSHOT @ C:\Workspace\SpringbootExercises\ExC3\pom.xml.
+2020-10-09 13:34:56,694 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/main/java
+2020-10-09 13:34:56,694 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:34:56,695 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExC3/src/main/resources
+2020-10-09 13:34:56,696 [Worker-90: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExC3/src/test/java
+2020-10-09 13:34:57,046 [Worker-90: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-10-09 13:34:57,975 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:57,976 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:34:57,978 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 13:34:58,020 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:34:58,021 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:35:10,047 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:35:10,051 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:35:10,056 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 13:35:10,062 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:35:10,063 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:35:19,559 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:35:19,560 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:35:19,562 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:35:19,565 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:35:19,565 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:44:01,095 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:44:01,096 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:44:01,097 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:44:01,124 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:44:01,125 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:47:16,425 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:47:16,426 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:47:16,427 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:47:16,433 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:47:16,433 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:47:43,349 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:47:43,349 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:47:43,350 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:47:43,357 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:47:43,358 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:54:05,264 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:54:05,265 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:54:05,266 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:54:05,272 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:54:05,273 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 13:55:49,001 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:55:49,002 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 13:55:49,003 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 13:55:49,011 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 13:55:49,012 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:03:40,933 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:03:40,937 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:03:40,943 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:03:40,953 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:03:40,953 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:06:54,128 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:06:54,132 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:06:54,137 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:06:54,143 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:06:54,143 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:11:33,321 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:11:33,325 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:11:33,329 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:11:33,334 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:11:33,334 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:12:25,036 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:12:25,039 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:12:25,043 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:12:25,051 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:12:25,051 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:12:48,721 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:12:48,725 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:12:48,731 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:12:48,737 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:12:48,737 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:15:04,239 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:15:04,243 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:15:04,249 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:15:04,255 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:15:04,255 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:16:03,335 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:16:03,340 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:16:03,345 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:16:03,351 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:16:03,352 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:16:50,347 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:16:50,350 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:16:50,355 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:16:50,359 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:16:50,360 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:19:08,482 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:19:08,486 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:19:08,491 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:19:08,499 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:19:08,500 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:26:34,154 [Worker-140: Launching ExC3 - ExC3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:26:34,160 [Worker-140: Launching ExC3 - ExC3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:26:34,168 [Worker-140: Launching ExC3 - ExC3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:26:34,178 [Worker-140: Launching ExC3 - ExC3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:26:34,179 [Worker-140: Launching ExC3 - ExC3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:27:48,283 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:27:48,287 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:27:48,293 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:27:48,299 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:27:48,299 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:28:11,237 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:28:11,241 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:28:11,245 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:28:11,249 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:28:11,250 [Worker-109: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:36:37,074 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:36:37,078 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:36:37,083 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:36:37,089 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:36:37,090 [Worker-143: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:41:56,753 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:41:56,757 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:41:56,762 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:41:56,768 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:41:56,768 [Worker-148: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:43:45,947 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:43:45,948 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 14:43:45,948 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:43:45,952 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:43:45,953 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:47:50,294 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:47:50,298 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:47:50,303 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:47:50,310 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:47:50,311 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:49:03,282 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:49:03,286 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:49:03,290 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:49:03,296 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:49:03,296 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:49:43,783 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:49:43,787 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:49:43,792 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:49:43,798 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:49:43,798 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:50:08,036 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:50:08,041 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:50:08,046 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:50:08,053 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:50:08,053 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:51:26,620 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:51:26,620 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 14:51:26,621 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:51:26,629 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:51:26,630 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:58:00,725 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:58:00,729 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:58:00,734 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:58:00,740 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:58:00,740 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 14:58:46,298 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:58:46,302 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 14:58:46,307 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 14:58:46,313 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 14:58:46,314 [Worker-159: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 15:00:15,185 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 15:00:15,189 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-09 15:00:15,194 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2020-10-09 15:00:15,200 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 15:00:15,200 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Workspace\SpringbootExercises\ExC3\src\test\resources
+2020-10-09 15:01:44,152 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-09 15:01:44,153 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-10-09 15:01:44,154 [Worker-160: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
