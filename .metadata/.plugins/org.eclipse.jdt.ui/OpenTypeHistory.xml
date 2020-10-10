@@ -1,6 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy>
-<typeInfo handle="=ExA2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;be.abis.exercise.service{CourseService.java[CourseService" modifiers="513" timestamp="1601983881069"/>
-<typeInfo handle="=ExA4/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;be.abis.exercise.service{TrainingService.java[TrainingService" modifiers="513" timestamp="1602056076196"/>
-<typeInfo handle="=ExC1/C:\/Users\/b_van\/.m2\/repository\/org\/springframework\/spring-context\/5.1.18.RELEASE\/spring-context-5.1.18.RELEASE.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.springframework=/=/maven.artifactId=/spring-context=/=/maven.version=/5.1.18.RELEASE=/=/maven.scope=/compile=/&lt;org.springframework.validation(Validator.class[Validator" modifiers="1537" timestamp="1601992631532"/>
-</typeInfoHistroy>
+<typeInfoHistroy/>

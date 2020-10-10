@@ -127,7 +127,10 @@ public class MainController {
 		logger.info("POST : searchPersonById");
 		setUpPersonList();
 		personList.clear();
-		personList.add(personService.findPerson(person.getPersonId()));
+		Person personFound = personService.findPerson(person.getPersonId());
+		if(personFound != null) {
+			personList.add(personFound);
+		}
 		logger.info("POST : searchPersonById found {}", personList.size());
 		return "redirect:/" + PageMapping.SEARCHPERSON.getPageMappingName();
 	}
